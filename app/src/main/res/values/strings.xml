@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Terserah Seterah</string>
+    <string name="image_splashscreen">image_splashscreen</string>
+    <string name="terserah">TERSERAH</string>
+    <string name="silahkan_di_pilih">Silahkan Di Pilih</string>
+    <string name="mau">Mau .....</string>
+    <string name="btn_makanan">MAKANAN</string>
+    <string name="btn_minuman">MINUMAN</string>
+    <string name="btn_wisata">WISATA</string>
+    <string name="version">Version 1.0</string>
+    <string name="btn_about">About</string>
+    <string name="btn_back">Back</string>
+    <string name="img_back">Back</string>
+
+    <string name="titik2"   >:</string>
+    <string name="nama_dev">Dev   </string>
+    <string name="e_mail"  >e-Mail</string>
+    <string name="nama"    >Ferly Wahyu Hermantiyo</string>
+    <string name="email"   >ferlyswh@gmail.com</string>
+    <string name="btn_exit">Keluar</string>
+    <string name="informasi_apk">Aplikasi ini digunakan untuk, anda yang kesulitan untuk +menentukan suatu pilihan dari teman anda ataupun kekasih anda yang mau diajak makan, minum, maupun jalan-jalan, tetapi dia malah jawab "TERSERAH...!!!"</string>
+
+    <string name="random_makanan">Makan Apa Ya...?</string>
+    <string name="random_minuman">Minum Apa Ya...?</string>
+    <string name="click_makanan">Cari Makanan</string>
+    <string name="click_minuman">Cari Minuman</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
